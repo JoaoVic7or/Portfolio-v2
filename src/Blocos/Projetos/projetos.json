@@ -9,8 +9,8 @@
     {
         "nome": "ToDo List",
         "descricao": "Site para criar uma lista de tarefas. É possível salvar as tarefas em diversos tipos de calendários, além dos dados ficarem armazenados no navegador",
-        "imagem": "src/assets/imagens_projetos/gerenciador.png",
-        "repo": "https://firebasestorage.googleapis.com/v0/b/portfolio-4cf33.appspot.com/o/gerenciador.png?alt=media&token=6e150a60-c112-47ac-a9d3-a0c4ce947ce4",
+        "imagem": "https://firebasestorage.googleapis.com/v0/b/portfolio-4cf33.appspot.com/o/gerenciador.png?alt=media&token=6e150a60-c112-47ac-a9d3-a0c4ce947ce4",
+        "repo": "https://github.com/JoaoVic7or/Gerenciador-de-tarefas",
         "link": "https://joaovic7or.github.io/Gerenciador-de-tarefas/"
     },
     {
@@ -23,8 +23,8 @@
     {
         "nome": "Consulta CEP",
         "descricao": "Site que consome uma API e te responde o endereço do CEP informado, junto com um botão que redireciona para o google maps.",
-        "imagem":"src/assets/imagens_projetos/consulta_cep.jpg",
-        "repo": "https://firebasestorage.googleapis.com/v0/b/portfolio-4cf33.appspot.com/o/consulta_cep.jpg?alt=media&token=18259ee5-13b3-48d2-8f48-aceb62aa061b",
+        "imagem": "https://firebasestorage.googleapis.com/v0/b/portfolio-4cf33.appspot.com/o/consulta_cep.jpg?alt=media&token=18259ee5-13b3-48d2-8f48-aceb62aa061b",
+        "repo": "https://github.com/JoaoVic7or/Consultar-cep",
         "link": "https://joaovic7or.github.io/Consultar-cep/"
     }
 ]
