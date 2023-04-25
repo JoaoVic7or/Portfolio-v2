@@ -1,0 +1,24 @@
+.alice-carousel__next-btn-item,
+.alice-carousel__prev-btn-item{
+    color: #ffffff !important;
+    font-size: 3.4rem;
+}
+.alice-carousel__prev-btn-item{
+    float: left;
+    position: relative;
+    bottom: 360px;
+}
+.alice-carousel__next-btn-item{
+    float: right;
+    position: relative;
+    bottom: 360px;
+}
+.alice-carousel__dots{
+    display: none;
+}
+
+@media (max-width: 1019px){
+    .alice-carousel__dots{
+        display: block;
+    }
+}

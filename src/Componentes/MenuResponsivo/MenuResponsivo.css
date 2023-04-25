@@ -1,0 +1,110 @@
+.bm-burger-button,
+.bm-burger-bars,
+.bm-cross-button,
+.bm-cross,
+.bm-menu-wrap,
+.bm-menu,
+.bm-morph-shape,
+.bm-item-list,
+.bm-item,
+.bm-overlay{
+    display: none;
+}
+
+@media screen and (max-width: 780px) {
+    .bm-burger-button {
+        position: absolute;
+        top: 20px;
+        right: 10px;
+        width: 36px;
+        display: block;
+        height: 30px;
+    }
+
+    .bm-burger-bars {
+        background: #ffffff;
+        border-radius: 10px;
+        display: block;
+    }
+
+    .bm-cross-button {
+        position: relative;
+        min-width: 43px;
+        min-height: 43px;
+        margin-right: -1px;
+        margin-top:8px;
+        display: block;
+    }
+
+    .bm-cross {
+        background: #ffffff;
+        border-radius: 10px;
+        position: absolute;
+        min-width: 40px;
+        max-height: 6px;
+        right: -13px;
+        top: 10px;
+        display: block;
+    }
+
+    .bm-menu-wrap {
+        position: fixed;
+        min-width: 50vw;
+        top: 0;
+        background-color: rgb(54, 54, 54);
+        display: block;
+    }
+
+    .bm-menu {
+        padding: 2.5em 1.5em 0;
+        font-size: 1.15em;
+        display: block;
+    }
+
+    .bm-morph-shape {
+        fill: #424c793a;
+        display: block;
+    }
+
+    .bm-item-list {
+        color: #b8b7ad;
+        height: fit-content;
+        max-height: 500px;
+        display: block;
+    }
+
+    .bm-overlay {
+        background: rgb(0, 0, 0);
+        display: block;
+    }
+
+    .bm-item {
+        display: inline-block;
+        color: #d1d1d1;
+        margin-bottom: 0px;
+        text-align: left;
+        text-decoration: none;
+        transition: color 0.2s;
+        display: block;
+    }
+
+    .bm-item:hover {
+        color: #ffffff;
+    }
+    .menuresponsivo{
+        padding: 0;
+    }
+    .menuresponsivo li{
+        padding: 30px 0;
+        width: 90%;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        gap: 20px;
+        font-weight: bold;
+    }
+
+    .menuresponsivo img{
+        width: 20px;
+    }
+}

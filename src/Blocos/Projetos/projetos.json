@@ -1,0 +1,30 @@
+[
+    {
+        "nome": "Buscar Filmes/Séries",
+        "descricao": "Site que você busca um filme e ele te retorna diversas informações sobre ele (ex: avalição, gênero, diretor, etc.)", 
+        "imagem": "src/assets/imagens_projetos/moviesearch.png",
+        "repo": "https://joaovic7or.github.io/Movie_Search/",
+        "link": "https://github.com/JoaoVic7or/Movie_Search"
+    },
+    {
+        "nome": "ToDo List",
+        "descricao": "Site para criar uma lista de tarefas. É possível salvar as tarefas em diversos tipos de calendários, além dos dados ficarem armazenados no navegador",
+        "imagem": "src/assets/imagens_projetos/gerenciador.png",
+        "repo": "https://joaovic7or.github.io/Gerenciador-de-tarefas/",
+        "link": "https://github.com/JoaoVic7or/Gerenciador-de-tarefas"
+    },
+    {
+        "nome": "Tempo Agora",
+        "descricao": "Aplicação que pega o nome de uma cidade e retorna os dados meteorológicos em tempo real.",
+        "imagem": "src/assets/imagens_projetos/tempoagora.jpg",
+        "repo": "https://joaovic7or.github.io/Clima-agora/",
+        "link": "https://joaovic7or.github.io/Clima-agora/"
+    },
+    {
+        "nome": "Consulta CEP",
+        "descricao": "Site que consome uma API e te responde o endereço do CEP informado, junto com um botão que redireciona para o google maps.",
+        "imagem":"src/assets/imagens_projetos/consulta_cep.jpg",
+        "repo": "https://joaovic7or.github.io/Consultar-cep/",
+        "link": "https://github.com/JoaoVic7or/Consultar-cep"
+    }
+]
