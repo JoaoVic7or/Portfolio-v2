@@ -16,9 +16,6 @@ const Container = styled.div`
 const BlocoImagem = styled.div`
     width: 50%;
     height: 100%;
-    box-shadow: 1px 0 10px #000;
-    background-color: rgba(13, 128, 163, 0.863);
-    border-radius: 10px 0 0 10px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -33,9 +30,11 @@ const BlocoLinguagens = styled.div`
     flex-wrap: nowrap;
     justify-content: center;
     align-items: center;
-    flex-direction: column;
-    color: #000;
+    color: #fff;
     font-size: 1.4rem;
+    background: linear-gradient(0deg, rgba(0, 38, 255, 0.562) 0%, rgba(62, 194, 255, 0.76) 100%);
+    border-radius: 0 10px 10px 0;
+    box-shadow: 1px 0 10px #000;
 `
 
 export default function CardsConhecimento(props) {

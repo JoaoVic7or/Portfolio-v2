@@ -14,6 +14,7 @@ const Container = styled.div`
     justify-content: space-between;
     color: #fff;
     align-items: center;
+    user-select: none;
 `
 const Nav = styled.nav`
     display: inline-block;
@@ -25,7 +26,6 @@ const Nav = styled.nav`
 const H1 = styled.h1`
     font-size: 1.7rem;
     margin-left: 10px;
-    user-select: none;
 `
 const Li = styled.li`
     display: inline-block;
