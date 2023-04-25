@@ -12,11 +12,12 @@ const Container = styled.div`
     height: 60px;
     display: flex;
     justify-content: space-between;
-    align-items: center;
     color: #fff;
+    align-items: center;
 `
 const Nav = styled.nav`
     display: inline-block;
+    height: 30px;
     @media (max-width: 900px){
         display: none;
     }
