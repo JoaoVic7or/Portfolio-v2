@@ -23,6 +23,9 @@ const Container = styled.div`
         font-size: 35px;
         margin: 0 10px;
         cursor: pointer;
+        @media (max-width: 780px){
+            font-size: 20px;
+        }
     }
     p{
         font-weight: bold;

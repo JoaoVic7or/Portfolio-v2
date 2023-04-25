@@ -2,29 +2,29 @@
     {
         "nome": "Buscar Filmes/Séries",
         "descricao": "Site que você busca um filme e ele te retorna diversas informações sobre ele (ex: avalição, gênero, diretor, etc.)", 
-        "imagem": "src/assets/imagens_projetos/moviesearch.png",
-        "repo": "https://joaovic7or.github.io/Movie_Search/",
-        "link": "https://github.com/JoaoVic7or/Movie_Search"
+        "imagem": "https://firebasestorage.googleapis.com/v0/b/portfolio-4cf33.appspot.com/o/moviesearch.png?alt=media&token=edfe216a-bd95-4a43-87dd-3e4dc7c14a60",
+        "repo": "https://github.com/JoaoVic7or/Movie_Search",
+        "link": "https://joaovic7or.github.io/Movie_Search/"
     },
     {
         "nome": "ToDo List",
         "descricao": "Site para criar uma lista de tarefas. É possível salvar as tarefas em diversos tipos de calendários, além dos dados ficarem armazenados no navegador",
         "imagem": "src/assets/imagens_projetos/gerenciador.png",
-        "repo": "https://joaovic7or.github.io/Gerenciador-de-tarefas/",
-        "link": "https://github.com/JoaoVic7or/Gerenciador-de-tarefas"
+        "repo": "https://firebasestorage.googleapis.com/v0/b/portfolio-4cf33.appspot.com/o/gerenciador.png?alt=media&token=6e150a60-c112-47ac-a9d3-a0c4ce947ce4",
+        "link": "https://joaovic7or.github.io/Gerenciador-de-tarefas/"
     },
     {
         "nome": "Tempo Agora",
         "descricao": "Aplicação que pega o nome de uma cidade e retorna os dados meteorológicos em tempo real.",
-        "imagem": "src/assets/imagens_projetos/tempoagora.jpg",
-        "repo": "https://joaovic7or.github.io/Clima-agora/",
+        "imagem": "https://firebasestorage.googleapis.com/v0/b/portfolio-4cf33.appspot.com/o/tempoagora.jpg?alt=media&token=efc7fd1b-9255-4602-a227-4f300a0aed15",
+        "repo": "https://github.com/JoaoVic7or/Clima-agora",
         "link": "https://joaovic7or.github.io/Clima-agora/"
     },
     {
         "nome": "Consulta CEP",
         "descricao": "Site que consome uma API e te responde o endereço do CEP informado, junto com um botão que redireciona para o google maps.",
         "imagem":"src/assets/imagens_projetos/consulta_cep.jpg",
-        "repo": "https://joaovic7or.github.io/Consultar-cep/",
-        "link": "https://github.com/JoaoVic7or/Consultar-cep"
+        "repo": "https://firebasestorage.googleapis.com/v0/b/portfolio-4cf33.appspot.com/o/consulta_cep.jpg?alt=media&token=18259ee5-13b3-48d2-8f48-aceb62aa061b",
+        "link": "https://joaovic7or.github.io/Consultar-cep/"
     }
 ]
