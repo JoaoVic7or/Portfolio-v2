@@ -15,6 +15,9 @@ const Container = styled.div`
     display: flex;
     align-items: center;
     gap: 50px;
+    @media (max-width: 780px){
+        gap: 10px;
+    }
     a{
         text-decoration: none;
         color: #fff;
@@ -29,6 +32,9 @@ const Container = styled.div`
     }
     p{
         font-weight: bold;
+        @media (max-width: 780px){
+            font-size: .9rem;
+        }
     }
 `
 const BlocoIcons = styled.div``
