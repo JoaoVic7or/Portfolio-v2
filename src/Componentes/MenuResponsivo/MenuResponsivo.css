@@ -14,7 +14,7 @@
 @media screen and (max-width: 900px) {
     .bm-burger-button {
         position: absolute;
-        top: 20px;
+        top: 18px;
         right: 10px;
         width: 36px;
         display: block;

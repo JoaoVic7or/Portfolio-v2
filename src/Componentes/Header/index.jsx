@@ -23,7 +23,7 @@ const Nav = styled.nav`
     }
 `
 const H1 = styled.h1`
-    font-weight: bold;
+    font-size: 1.7rem;
     margin-left: 10px;
     user-select: none;
 `
