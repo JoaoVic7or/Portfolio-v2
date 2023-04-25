@@ -40,7 +40,7 @@ const Imagem = styled.img`
 `
 const Conteudo = styled.div`
     height: 75vh;
-    width: 52%;
+    width: 55%;
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -58,7 +58,7 @@ const Conteudo = styled.div`
 const H2 = styled.h2`
     font-weight: 900;
     max-width: 100%;
-    font-size: 3.7rem;
+    font-size: 3rem;
     text-align: center;
     text-shadow: 2px 2px 10px #000;
     @media (max-width: 780px){
@@ -79,7 +79,7 @@ export default function QuemSouEu() {
             <Imagem src='https://joaochacon.dev/static/media/avataaars.fe0ef6002939018063d959d45d28f23a.svg' alt='avatar do perfil'/>
         </BlocoImagem>
         <Conteudo>
-            <H2>Olá, meu nome é João Victor Chacon</H2>
+            <H2>Olá, meu nome é João Victor</H2>
             <P>Sou desenvolvedor front-end, atualmente estou cursando Análise e Desenvolvimento de Sistemas. No momento estou buscando uma oportunidade para colocar meus conhecimentos em prática.</P>
         </Conteudo>
     </Container>
