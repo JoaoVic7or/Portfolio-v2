@@ -36,7 +36,6 @@ const Imagem = styled.img`
     @media (max-width: 780px){
         max-width: 400px;
         height: 100%;
-        margin-bottom: 50px;
     }
 `
 const Conteudo = styled.div`
@@ -53,6 +52,7 @@ const Conteudo = styled.div`
         align-items: flex-start;
         width: 100%;
         height: auto;
+        margin-top: 20px;
     }
 `
 const H2 = styled.h2`
