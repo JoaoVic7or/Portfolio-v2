@@ -17,7 +17,7 @@ const Container = styled.div`
 `
 const Nav = styled.nav`
     display: inline-block;
-    @media (max-width: 780px){
+    @media (max-width: 900px){
         display: none;
     }
 `
