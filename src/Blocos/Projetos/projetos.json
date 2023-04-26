@@ -26,5 +26,12 @@
         "imagem": "https://firebasestorage.googleapis.com/v0/b/portfolio-4cf33.appspot.com/o/consulta_cep.jpg?alt=media&token=18259ee5-13b3-48d2-8f48-aceb62aa061b",
         "repo": "https://github.com/JoaoVic7or/Consultar-cep",
         "link": "https://joaovic7or.github.io/Consultar-cep/"
+    },
+    {
+        "nome": "Conversor de moedas",
+        "descricao": "Site que realiza a conversão de moedas com uso de uma API. Moedas disponíveis para conversão: BRL, USD, GBP e EUR",
+        "imagem": "https://firebasestorage.googleapis.com/v0/b/portfolio-4cf33.appspot.com/o/conversor-de-moedas.png?alt=media&token=2806060f-f9d3-47df-8456-3baf1eafed96",
+        "repo": "https://github.com/JoaoVic7or/Conversor-de-Moedas",
+        "link": "https://joaovic7or.github.io/Conversor-de-Moedas/"
     }
 ]
