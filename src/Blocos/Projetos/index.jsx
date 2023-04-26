@@ -58,13 +58,13 @@ const responsive = {
     items: 2
   },
   700: {
-    items: 2.5
+    items: 2.7
   },
   898: {
-    items: 3
+    items: 3.2
   },
   1010: {
-    items: 3.5
+    items: 3.75
   }
 };
 
