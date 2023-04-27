@@ -6,6 +6,7 @@ import Header from './Componentes/Header'
 import Footer from './Componentes/Footer'
 import Conhecimentos from './Blocos/Conhecimentos'
 import Contato from './Blocos/Contato'
+import { GlobalSyle } from './Componentes/GlobalStyle'
 
 const Container = styled.div`
   width: 100%;
@@ -21,6 +22,7 @@ function App() {
 
   return (
     <Container>
+      <GlobalSyle />
       <Header />
       <QuemSouEu />
       <Projetos />
