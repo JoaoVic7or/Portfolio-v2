@@ -1,5 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
+import perfil from '../../assets/perfil.svg'
 
 const Container = styled.div`
     width: 100%;
@@ -76,7 +77,7 @@ export default function QuemSouEu() {
   return (
     <Container name="sobre">
         <BlocoImagem>
-            <Imagem src='https://joaochacon.dev/static/media/avataaars.fe0ef6002939018063d959d45d28f23a.svg' alt='avatar do perfil'/>
+            <Imagem src={perfil} alt='avatar do perfil'/>
         </BlocoImagem>
         <Conteudo>
             <H2>Olá, meu nome é João Victor</H2>
