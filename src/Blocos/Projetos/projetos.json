@@ -8,7 +8,7 @@
     },
     {
         "nome": "ToDo List",
-        "descricao": "Site para criar uma lista de tarefas. É possível salvar as tarefas em diversos tipos de calendários, além dos dados ficarem armazenados no navegador",
+        "descricao": "Site para criar uma lista de tarefas. É possível salvar as tarefas em diversos tipos de calendários, além dos dados ficarem armazenados no navegador.",
         "imagem": "https://firebasestorage.googleapis.com/v0/b/portfolio-4cf33.appspot.com/o/gerenciador.png?alt=media&token=6e150a60-c112-47ac-a9d3-a0c4ce947ce4",
         "repo": "https://github.com/JoaoVic7or/Gerenciador-de-tarefas",
         "link": "https://joaovic7or.github.io/Gerenciador-de-tarefas/"

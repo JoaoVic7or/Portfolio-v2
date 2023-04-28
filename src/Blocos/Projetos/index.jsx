@@ -40,13 +40,7 @@ const Carousel = styled.div`
       box-sizing: border-box;
     }
 `
-const Button = styled.button`
-  background: none;
-  border: none;
-  font-size: 3rem;
-  color: #fff;
-  cursor: pointer;
-`
+
 const responsive = {
   0: {
     items: 1
@@ -58,13 +52,13 @@ const responsive = {
     items: 2
   },
   700: {
-    items: 2.7
+    items: 2.8
   },
   898: {
     items: 3.2
   },
   1010: {
-    items: 3.75
+    items: 3.7
   }
 };
 
@@ -74,7 +68,7 @@ export default function Projetos() {
       <H2>Projetos</H2>
       <Bloco>
         <Carousel>
-          <AliceCarousel responsive={responsive} items={projetos.map(item => {
+          <AliceCarousel responsive={responsive} disableDotsControls items={projetos.map(item => {
             return (
               <CardsProjetos key={item.nome} nome={item.nome} descricao={item.descricao} repositorio={item.repo} link={item.link} imagem={item.imagem} />
             )
