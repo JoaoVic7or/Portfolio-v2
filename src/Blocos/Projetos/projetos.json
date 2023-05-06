@@ -1,17 +1,17 @@
 [
     {
+        "nome": "Lista de Tarefas",
+        "descricao": "Feito com React, serve para criar uma lista de tarefas, onde o usuário pode marcar se a tarefa já foi feita ou se quiser, pode excluir. Além disso, as tarefas ficam salvas no LocalStorage.",
+        "imagem": "https://firebasestorage.googleapis.com/v0/b/portfolio-4cf33.appspot.com/o/Captura%20de%20Tela%202023-05-05%20a%CC%80s%2021.47.42.png?alt=media&token=0376317b-c6d7-4258-b4fa-f001a9bba4a1",
+        "repo": "https://github.com/JoaoVic7or/Lista-de-Tarefas",
+        "link": "https://lista-de-tarefas-delta-two.vercel.app/"
+    },
+    {
         "nome": "Buscar Filmes/Séries",
         "descricao": "Site que você busca um filme e ele te retorna diversas informações sobre ele (ex: avalição, gênero, diretor, etc.)", 
         "imagem": "https://firebasestorage.googleapis.com/v0/b/portfolio-4cf33.appspot.com/o/moviesearch.png?alt=media&token=edfe216a-bd95-4a43-87dd-3e4dc7c14a60",
         "repo": "https://github.com/JoaoVic7or/Movie_Search",
         "link": "https://joaovic7or.github.io/Movie_Search/"
-    },
-    {
-        "nome": "ToDo List",
-        "descricao": "Site para criar uma lista de tarefas. É possível salvar as tarefas em diversos tipos de calendários, além dos dados ficarem armazenados no navegador.",
-        "imagem": "https://firebasestorage.googleapis.com/v0/b/portfolio-4cf33.appspot.com/o/gerenciador.png?alt=media&token=6e150a60-c112-47ac-a9d3-a0c4ce947ce4",
-        "repo": "https://github.com/JoaoVic7or/Gerenciador-de-tarefas",
-        "link": "https://joaovic7or.github.io/Gerenciador-de-tarefas/"
     },
     {
         "nome": "Tempo Agora",
