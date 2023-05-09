@@ -1,12 +1,12 @@
-import { useState, useEffect } from 'react'
+import React, { useEffect } from 'react'
 import styled from 'styled-components'
-import QuemSouEu from './Blocos/QuemSouEu'
-import Projetos from './Blocos/Projetos'
-import Header from './Componentes/Header'
-import Footer from './Componentes/Footer'
-import Conhecimentos from './Blocos/Conhecimentos'
-import Contato from './Blocos/Contato'
-import { GlobalSyle } from './Componentes/GlobalStyle'
+import QuemSouEu from './Containers/QuemSouEu'
+import Projetos from './Containers/Projetos'
+import Header from './Components/Header'
+import Footer from './Components/Footer'
+import Conhecimentos from './Containers/Conhecimentos'
+import Contato from './Containers/Contato'
+import { GlobalSyle } from './Components/GlobalStyle'
 
 const Container = styled.div`
   width: 100%;
@@ -17,8 +17,7 @@ const Container = styled.div`
 `
 
 function App() {
-  const [count, setCount] = useState(0)
-  useEffect(() => {document.title = "João Victor Chacon"})
+  useEffect(() => { document.title = "João Victor Chacon" })
 
   return (
     <Container>

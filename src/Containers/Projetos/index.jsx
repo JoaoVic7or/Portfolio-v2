@@ -1,9 +1,9 @@
-import React, { useEffect, useState } from 'react'
+import React from 'react'
 import styled from 'styled-components'
 import AliceCarousel from 'react-alice-carousel'
 import 'react-alice-carousel/lib/alice-carousel.css'
 import './stylecarousel.css'
-import CardsProjetos from '../../Componentes/CardsProjetos'
+import CardsProjetos from '../../Components/CardsProjetos'
 import projetos from './projetos.json'
 
 const Container = styled.div`

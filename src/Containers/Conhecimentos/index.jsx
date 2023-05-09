@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import CardsConhecimentos from '../../Componentes/CardsConhecimentos'
+import CardsConhecimentos from '../../Components/CardsConhecimentos'
 import Linguagens from './linguagens.json'
 
 const Container = styled.div`
