@@ -8,10 +8,10 @@
     },
     {
         "nome": "Buscar Filmes/Séries",
-        "descricao": "Site que você busca um filme e ele te retorna diversas informações sobre ele (ex: avalição, gênero, diretor, etc.)", 
-        "imagem": "https://firebasestorage.googleapis.com/v0/b/portfolio-4cf33.appspot.com/o/moviesearch.png?alt=media&token=edfe216a-bd95-4a43-87dd-3e4dc7c14a60",
-        "repo": "https://github.com/JoaoVic7or/Movie_Search",
-        "link": "https://joaovic7or.github.io/Movie_Search/"
+        "descricao": "Feito com React, serve para você buscar um filme ou série e ele te retorna dados como: ano, tempo de filme, gênero, sinopse e a avaliação do IMDB, Rotten Tomatoes e Metacritic.", 
+        "imagem": "https://firebasestorage.googleapis.com/v0/b/portfolio-4cf33.appspot.com/o/buscar-filme.png?alt=media&token=c03337b1-0da5-45e1-8526-2adbdc8dde82",
+        "repo": "https://github.com/JoaoVic7or/Buscar-Filmes",
+        "link": "https://buscar-filmes-blue.vercel.app/"
     },
     {
         "nome": "Tempo Agora",
