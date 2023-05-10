@@ -8,10 +8,6 @@ const Container = styled.div`
     background: linear-gradient(0deg, rgba(0, 38, 255, 0.562) 0%, rgba(62, 194, 255, 0.76) 100%);
     border-radius: 5px;
     margin-right: 10px;
-    h2{
-        text-align: center;
-        margin-top: 6px;
-    }
 `
 const Bloco = styled.div`
     padding: 1rem;
@@ -20,6 +16,13 @@ const Bloco = styled.div`
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+`
+const Titulo = styled.h2`
+    text-align: center;
+    margin-top: 6px;
+    @media (max-width: 780px){
+        font-size: 1.2rem;
+    }
 `
 const Imagem = styled.img`
     min-width: 100%;
@@ -59,7 +62,7 @@ export default function CardsProjetos(props) {
         <Container>
             <Bloco>
                 <Imagem src={props.imagem} alt={props.nome} />
-                <h2>{props.nome}</h2>
+                <Titulo>{props.nome}</Titulo>
                 <hr />
                 <Descricao>{props.descricao}</Descricao>
                 <div>
