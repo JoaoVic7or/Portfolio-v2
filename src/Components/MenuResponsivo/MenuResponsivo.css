@@ -51,8 +51,9 @@
         position: fixed;
         min-width: 50vw;
         top: 0;
-        background-color: rgb(54, 54, 54);
+        background-color: #154580;
         display: block;
+        box-shadow: 1px 0px 15px #000;
     }
 
     .bm-menu {

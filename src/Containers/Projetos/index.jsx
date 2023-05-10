@@ -70,7 +70,7 @@ export default function Projetos() {
         <Carousel>
           <AliceCarousel responsive={responsive} disableDotsControls items={projetos.map(item => {
             return (
-              <CardsProjetos key={item.nome} nome={item.nome} descricao={item.descricao} repositorio={item.repo} link={item.link} imagem={item.imagem} />
+              <CardsProjetos key={item.nome} nome={item.nome} descricao={item.descricao} repositorio={item.repo} link={item.link} imagem={item.imagem} ferramentas={item.ferramentas}/>
             )
           })} />
         </Carousel>

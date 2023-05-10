@@ -6,13 +6,13 @@
     },
     {
         "id": 1,
-        "nome": "Typescript",
-        "imagem": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+        "nome": "React",
+        "imagem": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
     },
     {
         "id": 2,
-        "nome": "React",
-        "imagem": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
+        "nome": "Typescript",
+        "imagem": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
     },
     {
         "id": 3,

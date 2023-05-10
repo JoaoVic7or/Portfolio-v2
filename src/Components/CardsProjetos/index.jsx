@@ -6,10 +6,11 @@ const Container = styled.div`
     height: 550px;
     background-color: #282c34;
     background: linear-gradient(0deg, rgba(0, 38, 255, 0.562) 0%, rgba(62, 194, 255, 0.76) 100%);
-    border-radius: .7rem;
+    border-radius: 5px;
     margin-right: 10px;
     h2{
         text-align: center;
+        margin-top: 6px;
     }
 `
 const Bloco = styled.div`
@@ -21,13 +22,14 @@ const Bloco = styled.div`
     justify-content: space-between;
 `
 const Imagem = styled.img`
-    border-radius: .5rem;
     min-width: 100%;
     height: 250px;
     object-fit: cover;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 `
 const Descricao = styled.p`
     height: 140px;
+    margin-top: 6px;
     overflow-y: auto;
 `
 const BlocoBotoes = styled.div`
@@ -46,6 +48,11 @@ const A = styled.a`
     color: #000;
     cursor: pointer;
 `
+const Icon = styled.img`
+    width: 25px;
+    margin-right: 5px;
+    user-select: none;
+`
 
 export default function CardsProjetos(props) {
     return (
@@ -53,8 +60,13 @@ export default function CardsProjetos(props) {
             <Bloco>
                 <Imagem src={props.imagem} alt={props.nome} />
                 <h2>{props.nome}</h2>
-                <hr/>
+                <hr />
                 <Descricao>{props.descricao}</Descricao>
+                <div>
+                    {props.ferramentas && props.ferramentas.map((url, index) => (
+                        <Icon key={index} src={url} alt={`Ferramenta ${index + 1}`} />
+                    ))}
+                </div>
                 <BlocoBotoes>
                     <A href={props.repositorio} target='_blank' rel='noopener noreferrer'>Repositorio</A>
                     <A href={props.link} target='_blank' rel='noopener noreferrer'>Visitar</A>

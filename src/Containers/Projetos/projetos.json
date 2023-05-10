@@ -1,37 +1,42 @@
 [
     {
         "nome": "Lista de Tarefas",
-        "descricao": "Feito com React, serve para criar uma lista de tarefas, onde o usuário pode marcar se a tarefa já foi feita ou se quiser, pode excluir. Além disso, as tarefas ficam salvas no LocalStorage.",
+        "descricao": "Uma lista de tarefas onde o usuário pode marcar se a tarefa já foi feita ou se quiser, pode excluir. Além disso, as tarefas ficam salvas no LocalStorage.",
         "imagem": "https://firebasestorage.googleapis.com/v0/b/portfolio-4cf33.appspot.com/o/Captura%20de%20Tela%202023-05-05%20a%CC%80s%2021.47.42.png?alt=media&token=0376317b-c6d7-4258-b4fa-f001a9bba4a1",
         "repo": "https://github.com/JoaoVic7or/Lista-de-Tarefas",
-        "link": "https://lista-de-tarefas-delta-two.vercel.app/"
+        "link": "https://lista-de-tarefas-delta-two.vercel.app/",
+        "ferramentas": ["https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"]
     },
     {
         "nome": "Buscar Filmes/Séries",
-        "descricao": "Feito com React, serve para você buscar um filme ou série e ele te retorna dados como: ano, tempo de filme, gênero, sinopse e a avaliação do IMDB, Rotten Tomatoes e Metacritic.", 
+        "descricao": "Buscar um filme ou série e ver informações como: ano, tempo de filme, gênero, sinopse e a avaliação do IMDB, Rotten Tomatoes e Metacritic.", 
         "imagem": "https://firebasestorage.googleapis.com/v0/b/portfolio-4cf33.appspot.com/o/buscar-filme.png?alt=media&token=c03337b1-0da5-45e1-8526-2adbdc8dde82",
         "repo": "https://github.com/JoaoVic7or/Buscar-Filmes",
-        "link": "https://buscar-filmes-blue.vercel.app/"
+        "link": "https://buscar-filmes-blue.vercel.app/",
+        "ferramentas": ["https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"]
     },
     {
         "nome": "Tempo Agora",
         "descricao": "Aplicação que pega o nome de uma cidade e retorna os dados meteorológicos em tempo real.",
         "imagem": "https://firebasestorage.googleapis.com/v0/b/portfolio-4cf33.appspot.com/o/tempoagora.jpg?alt=media&token=efc7fd1b-9255-4602-a227-4f300a0aed15",
         "repo": "https://github.com/JoaoVic7or/Clima-agora",
-        "link": "https://joaovic7or.github.io/Clima-agora/"
+        "link": "https://joaovic7or.github.io/Clima-agora/",
+        "ferramentas": ["https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"]
     },
     {
         "nome": "Consulta CEP",
         "descricao": "Site que consome uma API e te responde o endereço do CEP informado, junto com um botão que redireciona para o google maps.",
         "imagem": "https://firebasestorage.googleapis.com/v0/b/portfolio-4cf33.appspot.com/o/consulta_cep.jpg?alt=media&token=18259ee5-13b3-48d2-8f48-aceb62aa061b",
         "repo": "https://github.com/JoaoVic7or/Consultar-cep",
-        "link": "https://joaovic7or.github.io/Consultar-cep/"
+        "link": "https://joaovic7or.github.io/Consultar-cep/",
+        "ferramentas": ["https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"]
     },
     {
         "nome": "Conversor de moedas",
         "descricao": "Site que realiza a conversão de moedas com uso de uma API. Moedas disponíveis para conversão: BRL, USD, GBP e EUR",
         "imagem": "https://firebasestorage.googleapis.com/v0/b/portfolio-4cf33.appspot.com/o/conversor-de-moedas.png?alt=media&token=2806060f-f9d3-47df-8456-3baf1eafed96",
         "repo": "https://github.com/JoaoVic7or/Conversor-de-Moedas",
-        "link": "https://joaovic7or.github.io/Conversor-de-Moedas/"
+        "link": "https://joaovic7or.github.io/Conversor-de-Moedas/",
+        "ferramentas": ["https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"]
     }
 ]
