@@ -47,7 +47,7 @@ export default function Footer() {
                     <a href='https://linkedin.com/in/joão-victor-de-assis-236957131' target='__blank'><i className="devicon-linkedin-plain"></i></a>
                     <a href='https://github.com/JoaoVic7or' target='__blank'><i className="devicon-github-original"></i></a>
                 </BlocoIcons>
-                <p>Copyright © 2022 - joaochacon.dev</p>
+                <p>Copyright © 2023 - joaochacon.dev</p>
             </Container>
         </Bloco>
     )
