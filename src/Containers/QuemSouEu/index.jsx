@@ -4,7 +4,7 @@ import perfil from '../../assets/perfil.svg'
 
 const Container = styled.div`
     width: 100%;
-    height: 100vh;
+    height: 100%;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -72,6 +72,14 @@ const H2 = styled.h2`
 const P = styled.p`
     text-align: center;
 `
+const GithubLink = styled.a`
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    @media (max-width: 780px){
+        width: 100%;
+    }
+`
 
 export default function QuemSouEu() {
   return (
@@ -82,6 +90,9 @@ export default function QuemSouEu() {
         <Conteudo>
             <H2>Olá, meu nome é João Victor</H2>
             <P>Sou desenvolvedor front-end, atualmente estou cursando Análise e Desenvolvimento de Sistemas. No momento estou buscando uma oportunidade para colocar meus conhecimentos em prática.</P>
+            <GithubLink href='https://github.com/JoaoVic7or' target='_blank'>
+                <i className="devicon-github-original"/> GitHub
+            </GithubLink>
         </Conteudo>
     </Container>
   )
