@@ -7,6 +7,14 @@
         "link": "https://lista-de-tarefas-delta-two.vercel.app/",
         "ferramentas": ["https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"]
     },
+        {
+        "nome": "Tempo Agora",
+        "descricao": "Site onde você pode consultar informações meteorológica de diversas cidades no mundo, usando API do openweathermap.",
+        "imagem": "https://firebasestorage.googleapis.com/v0/b/portfolio-4cf33.appspot.com/o/tempoagora.jpg?alt=media&token=efc7fd1b-9255-4602-a227-4f300a0aed15",
+        "repo": "https://github.com/JoaoVic7or/WeatherNow",
+        "link": "https://weather-30ivpsywo-joaovic7or.vercel.app/",
+        "ferramentas": ["https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"]
+    },
     {
         "nome": "Buscar Filmes/Séries",
         "descricao": "Buscar um filme ou série e ver informações como: ano, tempo de filme, gênero, sinopse e a avaliação do IMDB, Rotten Tomatoes e Metacritic.", 
@@ -14,14 +22,6 @@
         "repo": "https://github.com/JoaoVic7or/Buscar-Filmes",
         "link": "https://buscar-filmes-blue.vercel.app/",
         "ferramentas": ["https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"]
-    },
-    {
-        "nome": "Tempo Agora",
-        "descricao": "Aplicação que pega o nome de uma cidade e retorna os dados meteorológicos em tempo real.",
-        "imagem": "https://firebasestorage.googleapis.com/v0/b/portfolio-4cf33.appspot.com/o/tempoagora.jpg?alt=media&token=efc7fd1b-9255-4602-a227-4f300a0aed15",
-        "repo": "https://github.com/JoaoVic7or/Clima-agora",
-        "link": "https://joaovic7or.github.io/Clima-agora/",
-        "ferramentas": ["https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"]
     },
     {
         "nome": "Consulta CEP",
