@@ -1,5 +1,5 @@
 import React from 'react'
-import styled from 'styled-components'
+import { Container, H1, Nav, Li, Img } from './styles'
 import { Link } from 'react-scroll'
 import sobre from '../../assets/imagens_menu/info.svg'
 import conhecimentos from '../../assets/imagens_menu/conhecimentos.svg'
@@ -7,41 +7,6 @@ import projetos from '../../assets/imagens_menu/folder.svg'
 import contato from '../../assets/imagens_menu/mail.svg'
 import MenuResponsivo from '../MenuResponsivo'
 
-const Container = styled.div`
-    width: 100%;
-    height: 60px;
-    display: flex;
-    justify-content: space-between;
-    color: #fff;
-    align-items: center;
-    user-select: none;
-`
-const Nav = styled.nav`
-    display: inline-block;
-    height: 30px;
-    @media (max-width: 900px){
-        display: none;
-    }
-`
-const H1 = styled.h1`
-    font-size: 1.7rem;
-    margin-left: 10px;
-`
-const Li = styled.li`
-    display: inline-block;
-    margin: 0 20px;
-    cursor: pointer;
-    font-weight: bold;
-    height: 20px;
-    a{
-        display: flex;
-        align-items: center;
-    }
-`
-const Img = styled.img`
-    margin-right: 5px;
-    height: 30px;
-`
 export default function Header() {
     return (
         <Container>
