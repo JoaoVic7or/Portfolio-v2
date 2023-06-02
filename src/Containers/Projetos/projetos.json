@@ -1,13 +1,13 @@
 [
     {
-        "nome": "Lista de Tarefas",
-        "descricao": "Uma lista de tarefas onde o usuário pode marcar se a tarefa já foi feita ou se quiser, pode excluir. Além disso, as tarefas ficam salvas no LocalStorage.",
-        "imagem": "https://firebasestorage.googleapis.com/v0/b/portfolio-4cf33.appspot.com/o/Captura%20de%20Tela%202023-05-05%20a%CC%80s%2021.47.42.png?alt=media&token=0376317b-c6d7-4258-b4fa-f001a9bba4a1",
-        "repo": "https://github.com/JoaoVic7or/Lista-de-Tarefas",
-        "link": "https://lista-de-tarefas-delta-two.vercel.app/",
-        "ferramentas": ["https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"]
+        "nome": "Buscar Filmes",
+        "descricao": "Site que utiliza a API do OMDB e mostra um catálogo de filmes com 200 páginas, além disso permite a busca por título. Possui botão de detalhes que mostra informações sobre o filme. Foi utilizado Tailwind CSS", 
+        "imagem": "https://firebasestorage.googleapis.com/v0/b/dados-de123.appspot.com/o/MovieSearch.png?alt=media&token=29e53887-ec0f-4242-8b5c-a6675dce726e",
+        "repo": "https://github.com/JoaoVic7or/MovieSearch",
+        "link": "https://movie-search-rouge-nine.vercel.app/",
+        "ferramentas": ["https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"]
     },
-        {
+    {
         "nome": "Tempo Agora",
         "descricao": "Site onde você pode consultar informações meteorológica de diversas cidades no mundo, usando API do openweathermap.",
         "imagem": "https://firebasestorage.googleapis.com/v0/b/portfolio-4cf33.appspot.com/o/tempoagora.jpg?alt=media&token=efc7fd1b-9255-4602-a227-4f300a0aed15",
@@ -16,11 +16,11 @@
         "ferramentas": ["https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"]
     },
     {
-        "nome": "Buscar Filmes/Séries",
-        "descricao": "Buscar um filme ou série e ver informações como: ano, tempo de filme, gênero, sinopse e a avaliação do IMDB, Rotten Tomatoes e Metacritic.", 
-        "imagem": "https://firebasestorage.googleapis.com/v0/b/portfolio-4cf33.appspot.com/o/buscar-filme.png?alt=media&token=c03337b1-0da5-45e1-8526-2adbdc8dde82",
-        "repo": "https://github.com/JoaoVic7or/Buscar-Filmes",
-        "link": "https://buscar-filmes-blue.vercel.app/",
+        "nome": "Lista de Tarefas",
+        "descricao": "Uma lista de tarefas onde o usuário pode marcar se a tarefa já foi feita ou se quiser, pode excluir. Além disso, as tarefas ficam salvas no LocalStorage.",
+        "imagem": "https://firebasestorage.googleapis.com/v0/b/portfolio-4cf33.appspot.com/o/Captura%20de%20Tela%202023-05-05%20a%CC%80s%2021.47.42.png?alt=media&token=0376317b-c6d7-4258-b4fa-f001a9bba4a1",
+        "repo": "https://github.com/JoaoVic7or/Lista-de-Tarefas",
+        "link": "https://lista-de-tarefas-delta-two.vercel.app/",
         "ferramentas": ["https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"]
     },
     {
