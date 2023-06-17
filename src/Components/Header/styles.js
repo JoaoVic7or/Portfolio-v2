@@ -24,7 +24,6 @@ export const Li = styled.li`
     display: inline-block;
     margin: 0 20px;
     cursor: pointer;
-    font-weight: bold;
     height: 20px;
     a{
         display: flex;

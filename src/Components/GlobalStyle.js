@@ -9,9 +9,7 @@ export const GlobalSyle = createGlobalStyle`
         background: linear-gradient(#041833, #154580);
         background-repeat: no-repeat;
         background-attachment: fixed;
-        -webkit-font-smoothing: antialiased;
-        -moz-osx-font-smoothing: grayscale;
-        font-family: 'Raleway', sans-serif;
-        font-weight: 600;
+        font-family: 'Quicksand', sans-serif;
+        font-weight: 400;
     }
 `

@@ -55,11 +55,9 @@ export const Conteudo = styled.div`
     }
 `
 export const H2 = styled.h2`
-    font-weight: 900;
     max-width: 100%;
-    font-size: 3rem;
+    font-size: 2.7rem;
     text-align: center;
-    text-shadow: 2px 2px 10px #000;
     @media (max-width: 780px){
         margin-bottom: 0;
         font-size: 2rem;

@@ -6,6 +6,7 @@ export const Container = styled.div`
 `
 export const H2 = styled.h2`
     font-size: 2rem;
+    font-weight: 400;
     padding-bottom: 2px;
     border-bottom: 2px solid #fff;
 `
@@ -39,4 +40,5 @@ export const Button = styled.button`
     background-color: rgb(34, 162, 236);
     color: #fff;
     border: 1px solid #000;
+    font-size: 16px;
 `

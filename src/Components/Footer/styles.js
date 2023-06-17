@@ -30,7 +30,6 @@ export const I = styled.i`
     }
 `
 export const P = styled.p`
-    font-weight: bold;
     @media (max-width: 780px){
         font-size: .9rem;
     }

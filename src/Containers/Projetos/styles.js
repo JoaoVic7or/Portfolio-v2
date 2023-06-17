@@ -8,6 +8,7 @@ export const H2 = styled.h2`
     padding-bottom: 2px;
     border-bottom: 2px solid #fff;
     padding-top: 10px;
+    font-weight: 400;
     @media (max-width: 950px){
       margin: 26px 10px;
     }

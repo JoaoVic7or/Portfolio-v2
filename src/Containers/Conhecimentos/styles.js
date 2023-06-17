@@ -6,6 +6,7 @@ export const Container = styled.div`
 export const H2 = styled.h2`
     font-size: 2rem;
     padding-bottom: 2px;
+    font-weight: 400;
     border-bottom: 2px solid #fff;
     margin: 50px 0;
     padding-top: 10px;

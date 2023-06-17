@@ -19,6 +19,7 @@ export const Bloco = styled.div`
 export const Titulo = styled.h2`
     text-align: center;
     margin-top: 6px;
+    font-weight: 400;
     @media (max-width: 780px){
         font-size: 1.2rem;
     }

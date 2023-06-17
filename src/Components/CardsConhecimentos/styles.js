@@ -28,4 +28,7 @@ export const BlocoLinguagens = styled.div`
     font-size: 1.4rem;
     background: linear-gradient(0deg, rgba(0, 38, 255, 0.562) 0%, rgba(62, 194, 255, 0.76) 100%);
     border-radius: 0 0 10px 10px;
+    h4{
+        font-weight: 400;
+    }
 `
