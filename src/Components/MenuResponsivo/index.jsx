@@ -7,6 +7,7 @@ import conhecimentos from '../../assets/imagens_menu/conhecimentos.svg'
 import projetos from '../../assets/imagens_menu/folder.svg'
 import contato from '../../assets/imagens_menu/mail.svg'
 
+
 export default function MenuResponsivo() {
     const [isOpen, setOpen] = useState(false)
     const handleIsOpen = () => {

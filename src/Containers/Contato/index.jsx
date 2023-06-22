@@ -12,19 +12,18 @@ export default function Contato() {
             }, (error) => {
                 console.log(error.text);
             });
-            toast.success('Mensagem enviada com sucesso!');
+            toast.success('Mensagem enviada!');
             e.target.reset()
     }
 
     return (
         <Container name="contato">
-            <H2>Contato</H2>
             <Bloco>
+                <H2>Contato</H2>
                 <Form onSubmit={sendEmail}>
-                    <Input type='text' placeholder='Digite seu nome' name='nome_usuario' required />
-                    <Input type='email' placeholder='Digite seu email' name='email_usuario' required />
-                    <Input type='text' placeholder='Digite o assunto' name='assunto' required />
-                    <Textarea placeholder='Digite a sua mensagem' name='mensagem' required></Textarea>
+                    <Input type='text' placeholder='Nome' name='nome_usuario' required />
+                    <Input type='email' placeholder='E-mail' name='email_usuario' required />
+                    <Textarea placeholder='Mensagem' name='mensagem' required></Textarea>
                     <Button type='submit'>Enviar mensagem</Button>
                 </Form>
                 <Toaster toastOptions={{duration: 4000}}/>

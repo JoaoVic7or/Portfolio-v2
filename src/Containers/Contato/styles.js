@@ -2,16 +2,21 @@ import styled from "styled-components";
 
 export const Container = styled.div`
     margin: 10px;
-    padding-bottom: 100px;
+    width: 100%;
+    background: #3B3538;
+    margin: 0 auto;
+    padding: 40px 0;
 `
 export const H2 = styled.h2`
     font-size: 2rem;
     font-weight: 400;
     padding-bottom: 2px;
-    border-bottom: 2px solid #fff;
 `
 export const Bloco = styled.div`
     margin-top: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 10px;
 `
 export const Form = styled.form`
     display: flex;

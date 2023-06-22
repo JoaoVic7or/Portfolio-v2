@@ -3,8 +3,8 @@ import styled from "styled-components";
 export const Container = styled.div`
     background-color: rgb(255, 255, 255);
     height: 150px;
-    width: 140px;
-    border-radius: 10px;
+    width: 120px;
+    border-radius: 15px;
     @media (max-width: 750px){
         max-width: 80%;
     }
@@ -26,7 +26,7 @@ export const BlocoLinguagens = styled.div`
     align-items: center;
     color: #fff;
     font-size: 1.4rem;
-    background: linear-gradient(0deg, rgba(0, 38, 255, 0.562) 0%, rgba(62, 194, 255, 0.76) 100%);
+    background: #3B3635;
     border-radius: 0 0 10px 10px;
     h4{
         font-weight: 400;

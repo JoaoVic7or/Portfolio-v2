@@ -11,7 +11,7 @@
     display: none;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 923px) {
     .bm-burger-button {
         position: absolute;
         top: 18px;
@@ -51,7 +51,7 @@
         position: fixed;
         min-width: 50vw;
         top: 0;
-        background-color: #154580;
+        background-color: #3B3538;
         display: block;
     }
 

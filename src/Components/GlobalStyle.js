@@ -6,9 +6,7 @@ export const GlobalSyle = createGlobalStyle`
         padding:0
     }
     body{
-        background: linear-gradient(#041833, #154580);
-        background-repeat: no-repeat;
-        background-attachment: fixed;
+        background: #242424;
         font-family: 'Quicksand', sans-serif;
         font-weight: 400;
     }

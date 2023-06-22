@@ -5,7 +5,7 @@ export default function CardsConhecimento(props) {
     return (
         <Container>
             <BlocoImagem>
-                <Img src={props.imagem} alt={props.nome}/>
+                <Img src={props.imagem} alt={props.nome} />
             </BlocoImagem>
             <BlocoLinguagens>
                 <h4>{props.nome}</h4>
