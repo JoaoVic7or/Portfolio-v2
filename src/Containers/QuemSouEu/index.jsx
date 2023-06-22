@@ -12,7 +12,7 @@ export default function QuemSouEu() {
             <H2>Olá, meu nome é João Victor</H2>
             <P>Sou um desenvolvedor front-end, possuo conhecimento em React, JavaScript, TypeScript, HTML e CSS. Atualmente, estou estudando C# e Java para expandir meus conhecimento.</P>
             <GithubLink href='https://github.com/JoaoVic7or' target='_blank'>
-                <i className="devicon-github-original"/> GitHub
+                <i className="devicon-github-original"/> Github
             </GithubLink>
         </Conteudo>
     </Container>

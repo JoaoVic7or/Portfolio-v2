@@ -22,6 +22,9 @@ export default function Projetos() {
             items: 0.85
         },
         375: {
+            items: 1.1
+        },
+        414: {
             items: 1.24
         },
         450: {
@@ -34,7 +37,7 @@ export default function Projetos() {
             items: 2
         },
         898: {
-            items: 2.8
+            items: 2.5
         },
         1010: {
             items: 3
